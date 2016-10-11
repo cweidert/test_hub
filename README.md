@@ -1,4 +1,4 @@
-# test_hub
+# test_project
 Testing for Craig and Alice and Herbie
 
 This bad boy is not for real.  It is just for lernin'.  
